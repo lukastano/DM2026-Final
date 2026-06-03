@@ -1,0 +1,9 @@
+xgboost
+lightgbm
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+kagglehub
+python-dotenv
