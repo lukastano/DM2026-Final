@@ -17,13 +17,17 @@ Add this line to `.gitignore`:
 python download_data.py
 ```
 
-## Step 4: Run Pipeline
+## Step 4: Run the model
 ```bash
-python run_pipeline.py
+python model.py
 ```
 
+## Step 5 Create the submission
+```bash
+python submission.py
+```
+
+## Explore the data
+In data_exploration.ipynb
+
 **Wait ~30 minutes for training to complete.**
-
-## Expected Score
-
-- Target: 0.76-0.82 (beat Baseline 3: 0.8056)
